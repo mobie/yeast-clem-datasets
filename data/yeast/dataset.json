@@ -217,6 +217,29 @@
           }
         }
       ],
+      "sourceTransforms": [
+        {
+          "affine": {
+            "parameters": [
+              1.0,
+              0.0,
+              0.0,
+              44114.890571691474,
+              0.0,
+              1.0,
+              0.0,
+              37661.97835647396,
+              0.0,
+              0.0,
+              1.0,
+              0.0
+            ],
+            "sources": [
+              "em-tomogram-25_hm"
+            ]
+          }
+        }
+      ],
       "uiSelectionGroup": "em"
     },
     "em-tomogram-25_lm": {
@@ -231,6 +254,29 @@
             ],
             "name": "em-tomogram-25_lm",
             "opacity": 1.0,
+            "sources": [
+              "em-tomogram-25_lm"
+            ]
+          }
+        }
+      ],
+      "sourceTransforms": [
+        {
+          "affine": {
+            "parameters": [
+              1.0,
+              0.0,
+              0.0,
+              10122.519506660456,
+              0.0,
+              1.0,
+              0.0,
+              8510.866420355067,
+              0.0,
+              0.0,
+              1.0,
+              0.0
+            ],
             "sources": [
               "em-tomogram-25_lm"
             ]
@@ -257,6 +303,29 @@
           }
         }
       ],
+      "sourceTransforms": [
+        {
+          "affine": {
+            "parameters": [
+              1.0,
+              0.0,
+              0.0,
+              41004.378983439165,
+              0.0,
+              1.0,
+              0.0,
+              43731.074231752886,
+              0.0,
+              0.0,
+              1.0,
+              0.0
+            ],
+            "sources": [
+              "em-tomogram-26_hm"
+            ]
+          }
+        }
+      ],
       "uiSelectionGroup": "em"
     },
     "em-tomogram-26_lm": {
@@ -271,6 +340,29 @@
             ],
             "name": "em-tomogram-26_lm",
             "opacity": 1.0,
+            "sources": [
+              "em-tomogram-26_lm"
+            ]
+          }
+        }
+      ],
+      "sourceTransforms": [
+        {
+          "affine": {
+            "parameters": [
+              1.0,
+              0.0,
+              0.0,
+              9272.416779818053,
+              0.0,
+              1.0,
+              0.0,
+              10002.481853101692,
+              0.0,
+              0.0,
+              1.0,
+              0.0
+            ],
             "sources": [
               "em-tomogram-26_lm"
             ]
@@ -297,6 +389,29 @@
           }
         }
       ],
+      "sourceTransforms": [
+        {
+          "affine": {
+            "parameters": [
+              1.0,
+              0.0,
+              0.0,
+              10673.51201479905,
+              0.0,
+              1.0,
+              0.0,
+              10104.809033184572,
+              0.0,
+              0.0,
+              1.0,
+              0.0
+            ],
+            "sources": [
+              "em-tomogram-27_lm"
+            ]
+          }
+        }
+      ],
       "uiSelectionGroup": "em"
     },
     "em-tomogram-28_lm": {
@@ -311,6 +426,29 @@
             ],
             "name": "em-tomogram-28_lm",
             "opacity": 1.0,
+            "sources": [
+              "em-tomogram-28_lm"
+            ]
+          }
+        }
+      ],
+      "sourceTransforms": [
+        {
+          "affine": {
+            "parameters": [
+              1.0,
+              0.0,
+              0.0,
+              6653.234535773524,
+              0.0,
+              1.0,
+              0.0,
+              11315.02472070327,
+              0.0,
+              0.0,
+              1.0,
+              0.0
+            ],
             "sources": [
               "em-tomogram-28_lm"
             ]
@@ -337,6 +475,29 @@
           }
         }
       ],
+      "sourceTransforms": [
+        {
+          "affine": {
+            "parameters": [
+              1.0,
+              0.0,
+              0.0,
+              7654.860202354038,
+              0.0,
+              1.0,
+              0.0,
+              8701.745967817367,
+              0.0,
+              0.0,
+              1.0,
+              0.0
+            ],
+            "sources": [
+              "em-tomogram-29_lm"
+            ]
+          }
+        }
+      ],
       "uiSelectionGroup": "em"
     },
     "em-tomogram-30_hm": {
@@ -351,6 +512,29 @@
             ],
             "name": "em-tomogram-30_hm",
             "opacity": 1.0,
+            "sources": [
+              "em-tomogram-30_hm"
+            ]
+          }
+        }
+      ],
+      "sourceTransforms": [
+        {
+          "affine": {
+            "parameters": [
+              1.0,
+              0.0,
+              0.0,
+              50695.741566888515,
+              0.0,
+              1.0,
+              0.0,
+              48696.69812970837,
+              0.0,
+              0.0,
+              1.0,
+              0.0
+            ],
             "sources": [
               "em-tomogram-30_hm"
             ]
@@ -377,6 +561,29 @@
           }
         }
       ],
+      "sourceTransforms": [
+        {
+          "affine": {
+            "parameters": [
+              1.0,
+              0.0,
+              0.0,
+              11744.01174489689,
+              0.0,
+              1.0,
+              0.0,
+              11226.472353323852,
+              0.0,
+              0.0,
+              1.0,
+              0.0
+            ],
+            "sources": [
+              "em-tomogram-30_lm"
+            ]
+          }
+        }
+      ],
       "uiSelectionGroup": "em"
     },
     "em-tomogram-31_hm": {
@@ -397,6 +604,29 @@
           }
         }
       ],
+      "sourceTransforms": [
+        {
+          "affine": {
+            "parameters": [
+              1.0,
+              0.0,
+              0.0,
+              50511.82957066794,
+              0.0,
+              1.0,
+              0.0,
+              49656.23897955484,
+              0.0,
+              0.0,
+              1.0,
+              0.0
+            ],
+            "sources": [
+              "em-tomogram-31_hm"
+            ]
+          }
+        }
+      ],
       "uiSelectionGroup": "em"
     },
     "em-tomogram-31_lm": {
@@ -411,6 +641,29 @@
             ],
             "name": "em-tomogram-31_lm",
             "opacity": 1.0,
+            "sources": [
+              "em-tomogram-31_lm"
+            ]
+          }
+        }
+      ],
+      "sourceTransforms": [
+        {
+          "affine": {
+            "parameters": [
+              1.0,
+              0.0,
+              0.0,
+              3546.030355949094,
+              0.0,
+              1.0,
+              0.0,
+              14910.250836307596,
+              0.0,
+              0.0,
+              1.0,
+              0.0
+            ],
             "sources": [
               "em-tomogram-31_lm"
             ]
